@@ -6,7 +6,7 @@
 Flutter representation of a Church Prototype App 
 
 
-<a href="ss/app.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+<a href="https://github.com/IMEF-FEMI/FlutterChurchApplicationPrototype/raw/master/ss/app.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/dev_femi.svg?style=social)](https://twitter.com/dev_femi)
@@ -14,9 +14,9 @@ Flutter representation of a Church Prototype App
 
 ## 📸 DEMO
 |------|-------|
-|<img src="ss/1.png" width="400">|<img src="ss/2.png" width="400">|
-|<img src="ss/3.png" width="400">|<img src="ss/4.png" width="400">|
-|<img src="ss/5.png" width="400">|
+|<img src="ss/1.jpg" width="400">|<img src="ss/2.jpg" width="400">|
+|<img src="ss/3.jpg" width="400">|<img src="ss/4.jpg" width="400">|
+|<img src="ss/5.jpg" width="400">|
 
 ## 🤓 Author(s)
 **Femi Bolaji** [![Twitter Follow](https://img.shields.io/twitter/follow/dev_femi.svg?style=social)](https://twitter.com/dev_femi)
