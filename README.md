@@ -1,7 +1,7 @@
 
 
 
-# 🔥🔥 Flutter Hotel Booking App Concept [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)  [![Twitter Follow](https://img.shields.io/twitter/follow/dev_femi.svg?style=social)](https://twitter.com/dev_femi)
+# 🔥🔥 Flutter Church App [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)  [![Twitter Follow](https://img.shields.io/twitter/follow/dev_femi.svg?style=social)](https://twitter.com/dev_femi)
 
 Flutter representation of a Church Prototype App 
 
